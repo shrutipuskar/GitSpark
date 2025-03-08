@@ -7,4 +7,9 @@ class Spark
     {
         System.out.println("Payment Status");
     }
+
+    public static void Notify()
+    {
+        System.out.println("notified");
+    }
 }
