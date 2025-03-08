@@ -16,5 +16,6 @@ class Spark
     public static void Auth()
     {
         System.out.println("Auth");
+        System.out.println("Auth2.0");
     }
 }
